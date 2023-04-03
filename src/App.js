@@ -34,7 +34,7 @@ function ModeToggle() {
 }
 
 function visitnextcloud() {
-  window.open("http://localhost:8081");
+  window.open("http://mycloud.local:8081");
   return;
 }
 

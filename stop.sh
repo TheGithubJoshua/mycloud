@@ -1,0 +1,1 @@
+eval "hostnamectl set-hostname $var"
